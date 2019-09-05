@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.774,C:\Users\denisov\Documents\Embarcadero\Studio\Projects\FMX3Delphi\Unit1.fmx=C:\Users\denisov\Documents\Embarcadero\Studio\Projects\FMX3Delphi\Fmx3D.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.127,C:\Users\denisov\Documents\Embarcadero\Studio\Projects\FMX3Delphi\Fmx3D.dproj=C:\Users\denisov\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.798,C:\Users\denisov\Documents\Embarcadero\Studio\Projects\FMX3Delphi\Fmx3D.dproj=C:\Users\denisov\Documents\Embarcadero\Studio\Projects\FMX3Delphi\Fmx3D.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.865,=C:\Users\denisov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.774,C:\Users\denisov\Documents\Embarcadero\Studio\Projects\FMX3Delphi\Unit1.pas=C:\Users\denisov\Documents\Embarcadero\Studio\Projects\FMX3Delphi\Fmx3D.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.940,C:\Users\denisov\Documents\Embarcadero\Studio\Projects\FMX3Delphi\Fmx3D.pas=C:\Users\denisov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.940,C:\Users\denisov\Documents\Embarcadero\Studio\Projects\FMX3Delphi\Fmx3D.fmx=C:\Users\denisov\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
